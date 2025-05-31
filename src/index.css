@@ -14,11 +14,11 @@
   }
   
   .todo-input {
-    @apply w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500;
+    @apply w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500;
   }
   
   .todo-button {
-    @apply px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 transition-colors duration-300;
+    @apply px-4 py-2 bg-green-500 text-white rounded-md hover:bg-green-600 transition-colors duration-300;
   }
   
   .todo-item {
@@ -26,7 +26,7 @@
   }
   
   .todo-checkbox {
-    @apply h-5 w-5 text-blue-500 rounded focus:ring-blue-500;
+    @apply h-5 w-5 text-green-500 rounded focus:ring-green-500;
   }
   
   .todo-text {
@@ -38,6 +38,6 @@
   }
   
   .todo-delete {
-    @apply text-red-500 hover:text-red-700 transition-colors duration-300;
+    @apply text-yellow-500 hover:text-yellow-600 transition-colors duration-300;
   }
 }
