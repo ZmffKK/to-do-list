@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply bg-gray-50 text-gray-900 min-h-screen;
+    @apply bg-gray-50 text-black-900 min-h-screen;
   }
 }
 
@@ -30,11 +30,11 @@
   }
   
   .todo-text {
-    @apply ml-3 text-gray-800 flex-grow;
+    @apply ml-3 text-black-800 flex-grow;
   }
   
   .todo-text-completed {
-    @apply line-through text-gray-400;
+    @apply line-through text-black-400;
   }
   
   .todo-delete {

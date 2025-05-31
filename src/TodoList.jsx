@@ -68,7 +68,7 @@ const TodoList = () => {
             animate={{ opacity: 0.6 }}
             className="text-center text-gray-500 my-4"
           >
-            No tasks yet. Add one above!
+            Enter a task to get started!
           </motion.p>
         ) : (
           <ul className="divide-y divide-gray-200">
