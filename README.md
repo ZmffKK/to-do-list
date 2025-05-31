@@ -1,25 +1,10 @@
-# Todo List App
+# Todo List Web
 
-Hey there! 👋 This is a simple todo list app built with React and Vite.
 
 ## How to run this thing
 
-1. Clone this repo or download the files
-2. Install the dependencies:
-   ```
-   npm install
-   ```
-3. Start the development server:
-   ```
-   npm run dev
-   ```
-4. Open your browser and go to the URL shown in your terminal (usually http://localhost:5173)
-
-## Features
-
-- Add new tasks
-- Check off completed tasks
-- Delete tasks you don't need anymore
-- Fancy animations when you add or remove tasks
-
-That's it! Have fun organizing your tasks! ✅
+1. Clone this repo or download the files.
+2. To use this web, insert your task that you want to do today.
+3. You can check the tasks that you've finish.
+4. You can drop the task that you didn't want to do.
+5. Now you can organize your task today
